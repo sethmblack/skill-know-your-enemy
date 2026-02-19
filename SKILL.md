@@ -4,7 +4,8 @@ description: Conduct dual-lens competitive analysis to understand both yourself 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4346
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - know-your-enemy-assessment
 - transformation
